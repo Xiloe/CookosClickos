@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CookosClickos</string>
+    <string name="title">Cookos Clickos</string>
+    <string name="btn_play">Play</string>
+    <string name="score">Score : %d</string>
+    <string name="cookie_image_description">C\'est un cookie. Oui.</string>
+</resources>
